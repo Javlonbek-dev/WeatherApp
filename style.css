@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(weather3.jpg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    background-size: cover;
+}
+.container{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 440px;
+    margin-top: 180px;
+}
+.container h1{
+    font-family: poppin, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding: 15px;
+    font-weight: 700;
+    color: white;
+    margin-top: 150px;
+}
+input{
+width: 350px;
+border-radius: 5px;
+height: 36px;
+
+}
